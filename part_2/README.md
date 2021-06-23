@@ -2,9 +2,7 @@
 
 ## Problem Statement
 
-The attached csv file contains the marks scored by students in a class, in different
-subjects. Each row has the marks scored by the student in the subjects of Maths,
-Biology, English, Physics, Chemistry, and Hindi. Write a python program to efficiently
+Write a python program to efficiently
 1. Find the topper in each subject.
 2. Find the top 3 students in the class, based on their marks in all subjects.
 3. The results should be printed on the console upon running the program with the csv file as the argument, and look as below:
